@@ -1,0 +1,15 @@
+D:\projetos\task05\bin\Debug\net7.0\task05.exe
+D:\projetos\task05\bin\Debug\net7.0\task05.deps.json
+D:\projetos\task05\bin\Debug\net7.0\task05.runtimeconfig.json
+D:\projetos\task05\bin\Debug\net7.0\task05.dll
+D:\projetos\task05\bin\Debug\net7.0\task05.pdb
+D:\projetos\task05\obj\Debug\net7.0\task05.csproj.AssemblyReference.cache
+D:\projetos\task05\obj\Debug\net7.0\task05.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\task05\obj\Debug\net7.0\task05.AssemblyInfoInputs.cache
+D:\projetos\task05\obj\Debug\net7.0\task05.AssemblyInfo.cs
+D:\projetos\task05\obj\Debug\net7.0\task05.csproj.CoreCompileInputs.cache
+D:\projetos\task05\obj\Debug\net7.0\task05.dll
+D:\projetos\task05\obj\Debug\net7.0\refint\task05.dll
+D:\projetos\task05\obj\Debug\net7.0\task05.pdb
+D:\projetos\task05\obj\Debug\net7.0\task05.genruntimeconfig.cache
+D:\projetos\task05\obj\Debug\net7.0\ref\task05.dll
